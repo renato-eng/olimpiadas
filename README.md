@@ -1,17 +1,4 @@
-## Vamos criar um README.md incrível para o seu projeto! 
-
-**Para te ajudar da melhor forma, preciso de algumas informações adicionais:**
-
-* **Público-alvo:** Quem você quer que use sua aplicação? (Atletas, técnicos, fãs, etc.)
-* **Funcionalidades:** Além da pesquisa, quais outras funcionalidades a aplicação oferece? (Filtros, gráficos, etc.)
-* **Tecnologias:** Quais outras tecnologias foram utilizadas além de HTML, CSS e JavaScript? (Frameworks, bibliotecas, etc.)
-* **Futuras melhorias:** Quais são os seus planos para a aplicação? (Novas funcionalidades, integrações, etc.)
-
-**Com base nessas informações, posso te oferecer algumas opções de README.md, como este exemplo:**
-
-### **README.md - Busca de Atletas Brasileiros**
-
-##  **Busca de Atletas Brasileiros**
+##  **Busca de Atletas Brasileiros - imersão dev com Google Gemini**
 
 Uma ferramenta simples e eficaz para encontrar informações sobre seus atletas brasileiros favoritos.
 
